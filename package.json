@@ -1,0 +1,14 @@
+{
+  "name": "kashier-paymob-gateway",
+  "version": "1.0.0",
+  "description": "Payment gateway integration with Kashier and Paymob",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
